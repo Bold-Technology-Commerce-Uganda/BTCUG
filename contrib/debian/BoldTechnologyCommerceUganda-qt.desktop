@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=BoldTechnologyCommerceUganda
+Comment= BoldTechnologyCommerceUganda P2P Cryptocurrency
+Comment[fr]= BoldTechnologyCommerceUganda, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= BoldTechnologyCommerceUganda, eşten eşe kriptografik sanal para birimi
+Exec=BoldTechnologyCommerceUganda-qt %u
+Terminal=false
+Type=Application
+Icon=BoldTechnologyCommerceUganda128
+MimeType=x-scheme-handler/BoldTechnologyCommerceUganda;
+Categories=Office;Finance;
+StartupWMClass=BoldTechnologyCommerceUganda-qt

@@ -1,0 +1,15 @@
+QT_TS = \
+  qt/locale/BoldTechnologyCommerceUganda_de.ts \
+  qt/locale/BoldTechnologyCommerceUganda_en.ts \
+  qt/locale/BoldTechnologyCommerceUganda_en_US.ts \
+  qt/locale/BoldTechnologyCommerceUganda_es.ts \
+  qt/locale/BoldTechnologyCommerceUganda_es_ES.ts \
+  qt/locale/BoldTechnologyCommerceUganda_fr_FR.ts \
+  qt/locale/BoldTechnologyCommerceUganda_hr_HR.ts \
+  qt/locale/BoldTechnologyCommerceUganda_it.ts \
+  qt/locale/BoldTechnologyCommerceUganda_ko_KR.ts \
+  qt/locale/BoldTechnologyCommerceUganda_nl.ts \
+  qt/locale/BoldTechnologyCommerceUganda_pl.ts \
+  qt/locale/BoldTechnologyCommerceUganda_ru.ts \
+  qt/locale/BoldTechnologyCommerceUganda_tr.ts \
+  qt/locale/BoldTechnologyCommerceUganda_zh_CN.ts
