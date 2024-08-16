@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=BOLDTECHNOLOGYCOMMERCEUGANDA Core
+Comment=BOLDTECHNOLOGYCOMMERCEUGANDA Core QT test network
+GenericName=BOLDTECHNOLOGYCOMMERCEUGANDA Digital Currency QT client testnet network
+Exec=BoldTechnologyCommerceUganda-core.qt-testnet %u
+Terminal=false
+Type=Application
+Icon=${SNAP}/share/pixmaps/BoldTechnologyCommerceUganda_testnet.png
+MimeType=x-scheme-handler/piv;
+Categories=X-Office;X-Finance;
+Keywords=internet;BoldTechnologyCommerceUganda;zpiv;tpiv;core;wallet;qt;testnet;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0

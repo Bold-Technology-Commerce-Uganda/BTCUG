@@ -1,0 +1,15 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=BOLDTECHNOLOGYCOMMERCEUGANDA Core
+Comment=BOLDTECHNOLOGYCOMMERCEUGANDA Core QT main network
+GenericName=BOLDTECHNOLOGYCOMMERCEUGANDA Digital Currency QT client main network
+Exec=BoldTechnologyCommerceUganda-core.qt %u
+Terminal=false
+Type=Application
+Icon=${SNAP}/share/pixmaps/BoldTechnologyCommerceUganda.png
+MimeType=x-scheme-handler/BoldTechnologyCommerceUganda;
+Categories=X-Office;X-Finance;
+Keywords=internet;BoldTechnologyCommerceUganda;zpiv;piv;core;wallet;qt;main;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0
