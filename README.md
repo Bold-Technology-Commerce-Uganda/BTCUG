@@ -21,7 +21,7 @@
 
 • Ports: 10033 (p2p) / 10032 (rpc)
 
-• Website [btcugltd.com/](btcugltd.com)
+• Website [BTCUGLTD.com](https://btcugltd.com)
 
 
 
