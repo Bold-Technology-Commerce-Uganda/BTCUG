@@ -13,8 +13,6 @@
 
 • Block Time: 60 Seconds
 
-• Block Size: 10MB
-
 • Maturity: 20 Confirmations
 
 • Prefix: BoldTechnologyCommerceUganda adresses start with the capital letter "B"
